@@ -1,0 +1,9 @@
+node_modules/
+.vscode/
+.idea/
+.DS_Store
+.history
+yarn.lock
+dump.rdb
+npm-debug.log
+package-lock.json

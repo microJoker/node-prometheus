@@ -1,0 +1,14 @@
+{
+  "name": "node-prometheus",
+  "version": "0.1.0",
+  "description": "nodejs project use prometheus",
+  "private": false,
+  "main": "prometheus/server.js",
+  "dependencies": {
+    "node-superconf": "^0.1.4",
+    "prom-client": "^14.1.0"
+  },
+  "scripts": {
+    "example": "node ./examples/example.js"
+  }
+}
